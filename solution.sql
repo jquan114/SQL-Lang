@@ -26,3 +26,4 @@ VALUES ('u4','Janine', 'Wilson', '1992-01-01', 'f', 'manager');
 INSERT INTO "User"
 VALUES ('u5', 'Jason', 'Lipton', '1992-01-01', 'm', 'manager');
 
+
